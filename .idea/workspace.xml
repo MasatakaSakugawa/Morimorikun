@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38ba5afa-957d-4ae4-8722-f361281a8dce" name="Default Changelist" comment="" />
+    <list default="true" id="38ba5afa-957d-4ae4-8722-f361281a8dce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mori.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mori.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575509407966</updated>
-      <workItem from="1575509409194" duration="603000" />
+      <workItem from="1575509409194" duration="1420000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1575509612108</created>
