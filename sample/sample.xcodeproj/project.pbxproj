@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B31A91BA238E1CF1009DD2C7 /* sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B31A91BA238E1CF1009DD2C7 /* Mori.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mori.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B31A91BD238E1CF1009DD2C7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B31A91BF238E1CF1009DD2C7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		B31A91C1238E1CF1009DD2C7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		B31A91BB238E1CF1009DD2C7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B31A91BA238E1CF1009DD2C7 /* sample.app */,
+				B31A91BA238E1CF1009DD2C7 /* Mori.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -90,7 +90,7 @@
 			);
 			name = sample;
 			productName = sample;
-			productReference = B31A91BA238E1CF1009DD2C7 /* sample.app */;
+			productReference = B31A91BA238E1CF1009DD2C7 /* Mori.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -299,7 +299,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = ieuser.sample;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Mori;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -316,7 +316,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = ieuser.sample;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Mori;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

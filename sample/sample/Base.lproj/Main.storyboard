@@ -10,9 +10,9 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="sample" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="BYZ-38-t0r" customClass="ViewController" customModule="sample" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="647"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <navigationBar contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="aO0-ix-nMh">
@@ -63,9 +63,9 @@
         <!--Kadai Detail Controller-->
         <scene sceneID="Jq9-gB-RDd">
             <objects>
-                <viewController id="f3w-r3-36C" customClass="kadaiDetailController" customModule="sample" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="f3w-r3-36C" customClass="kadaiDetailController" customModule="sample" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="5SI-WW-lmo">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="647"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <navigationBar contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="0yT-FG-y6T">
@@ -118,9 +118,9 @@
         <!--Add Controller-->
         <scene sceneID="qlY-2f-X0q">
             <objects>
-                <viewController id="8X6-YL-ril" customClass="AddController" customModule="sample" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="8X6-YL-ril" customClass="AddController" customModule="sample" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="4Qm-d7-Cno">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="647"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <navigationBar contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="cjV-VS-QTW">
@@ -193,6 +193,8 @@
                         <viewLayoutGuide key="safeArea" id="a1H-rs-Z1J"/>
                     </view>
                     <navigationItem key="navigationItem" id="z37-jE-dj0"/>
+                    <nil key="simulatedTopBarMetrics"/>
+                    <nil key="simulatedBottomBarMetrics"/>
                     <connections>
                         <outlet property="kadaiNaiyouTextView" destination="hVi-zE-cOe" id="bXc-Y5-adh"/>
                         <outlet property="kadaiNameTextView" destination="ITF-fI-m9E" id="37K-ke-acK"/>
@@ -205,6 +207,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="G1e-6f-Psg"/>
+        <segue reference="1hO-Hr-JeP"/>
     </inferredMetricsTieBreakers>
 </document>
