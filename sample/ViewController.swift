@@ -80,9 +80,9 @@ class ViewController: UIViewController, UITableViewDelegate,UITableViewDataSourc
         let trigger: UNNotificationTrigger
         
         
-        notificationTime.hour = 20 //ここいじったら通知する時間変わるよじここは時刻。デモ用にコレいじれば爆速で通知くる
-        notificationTime.minute = 40//はずだ
-        notificationTime.second = 10
+        //notificationTime.hour = 5 //ここいじったら通知する時間変わるよじここは時刻。デモ用にコレいじれば爆速で通知くる
+        //notificationTime.minute = 51//はずだ
+        //notificationTime.second = 50
         
         trigger = UNCalendarNotificationTrigger(dateMatching: notificationTime, repeats: false)
         let content = UNMutableNotificationContent()
