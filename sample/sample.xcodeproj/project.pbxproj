@@ -14,6 +14,7 @@
 		B31A91C7238E1CF3009DD2C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B31A91C6238E1CF3009DD2C7 /* Assets.xcassets */; };
 		B31A91CA238E1CF3009DD2C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B31A91C8238E1CF3009DD2C7 /* LaunchScreen.storyboard */; };
 		B31A91D2238E2F16009DD2C7 /* AddController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B31A91D1238E2F16009DD2C7 /* AddController.swift */; };
+		B3B8D1F023F2B29A008A0474 /* kadaiEditController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3B8D1EF23F2B29A008A0474 /* kadaiEditController.swift */; };
 		B3EDC1A423A3533E009ABE53 /* kadaiDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3EDC1A323A3533E009ABE53 /* kadaiDetailController.swift */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 		B31A91C9238E1CF3009DD2C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B31A91CB238E1CF3009DD2C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B31A91D1238E2F16009DD2C7 /* AddController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddController.swift; sourceTree = "<group>"; };
+		B3B8D1EF23F2B29A008A0474 /* kadaiEditController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kadaiEditController.swift; sourceTree = "<group>"; };
 		B3EDC1A323A3533E009ABE53 /* kadaiDetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kadaiDetailController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,6 +68,7 @@
 				B31A91C3238E1CF1009DD2C7 /* Main.storyboard */,
 				B3EDC1A323A3533E009ABE53 /* kadaiDetailController.swift */,
 				B31A91D1238E2F16009DD2C7 /* AddController.swift */,
+				B3B8D1EF23F2B29A008A0474 /* kadaiEditController.swift */,
 				B31A91C6238E1CF3009DD2C7 /* Assets.xcassets */,
 				B31A91C8238E1CF3009DD2C7 /* LaunchScreen.storyboard */,
 				B31A91CB238E1CF3009DD2C7 /* Info.plist */,
@@ -146,6 +149,7 @@
 			files = (
 				B31A91C2238E1CF1009DD2C7 /* ViewController.swift in Sources */,
 				B3EDC1A423A3533E009ABE53 /* kadaiDetailController.swift in Sources */,
+				B3B8D1F023F2B29A008A0474 /* kadaiEditController.swift in Sources */,
 				B31A91BE238E1CF1009DD2C7 /* AppDelegate.swift in Sources */,
 				B31A91C0238E1CF1009DD2C7 /* SceneDelegate.swift in Sources */,
 				B31A91D2238E2F16009DD2C7 /* AddController.swift in Sources */,
